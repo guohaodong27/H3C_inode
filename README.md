@@ -1,7 +1,7 @@
 # H3C_inode
 a h3c inode client for openwrt or other arm device by using docker 
 
-Because ** h3c inode client arm version only support a bit kind of devices** So，
+Because **h3c inode client arm version only support a bit kind of devices** So，
 🙂if you use arm device build with musl as default gcc, it is a good choice to use docker.
 
 # How to use
